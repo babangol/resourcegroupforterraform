@@ -26,7 +26,7 @@ provider "azurerm" {
 
 }
 variable rgname{
-                        default = "teraformrg1"
+                        default = "teraformrg123"
                 }
                 variable location{
                         default = "West US 2"
